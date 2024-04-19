@@ -7,10 +7,7 @@ namespace TestRepos
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-
             Console.WriteLine("SecondByReham");
-            var reham = "Reham";
-            Console.WriteLine("Creating conflicts - Amr");
         }
     }
 }
