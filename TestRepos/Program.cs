@@ -8,9 +8,6 @@ namespace TestRepos
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("SecondByReham");
-            Console.WriteLine("thirdByReham");
-            Console.WriteLine("second third");
-
         }
     }
 }
