@@ -1,4 +1,6 @@
-﻿namespace TestRepos
+﻿using System;
+
+namespace TestRepos
 {
     internal class Program
     {
